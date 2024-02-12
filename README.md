@@ -9,4 +9,4 @@ Raspberry Pi Pico W based project designed to monitor and display temperature an
 ![circuit](assets/circuit.png)
 
 ## Hygrothermograph
-![hygrothermograph](assets/hygrothermograph.jpg)
+![hygrothermograph](assets/hygrothermograph.jpeg)
